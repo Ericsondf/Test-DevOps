@@ -1,0 +1,27 @@
+{
+  "name": "tdd-testes-lab2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:ui": "vitest --ui",
+    "coverage": "vitest run --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilFranca/TDD-Testes-lab2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilFranca/TDD-Testes-lab2/issues"
+  },
+  "homepage": "https://github.com/GuilFranca/TDD-Testes-lab2#readme",
+  "devDependencies": {
+    "@vitest/ui": "^4.1.1"
+  }
+}
